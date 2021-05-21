@@ -1,0 +1,44 @@
+package com.qa.java;
+
+import com.qa.java.basics.Sprinter;
+
+public class Runner {
+
+	public static void main(String[] args) {
+		//System.out.println("Hello World");
+		//int lines;
+		//lines = Sprinter.div(8, 2); 
+		//if (lines > 3) {
+		//	System.out.println("Correct");
+		}
+		//System.out.println(lines);
+		
+	//}
+	
+	//public static void printThese(int num1, int num2) {
+		//System.out.println(num1);
+		//System.out.println(num2); 
+		 
+	//}
+	
+	//public static int add(int num1, int num2) {
+		//return num1 + num2;
+	
+		
+	//
+	//}
+	
+	public static void main1(String[] args) {
+	int value = 0;
+			
+	while(value < 10)	
+	{ 
+		System.out.println("Hello World");
+		
+		value = value +1; 
+	}
+		
+	}
+
+}
+
